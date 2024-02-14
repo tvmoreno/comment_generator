@@ -1,0 +1,12 @@
+This course builds on the skills and concepts learned in our previous computer science courses.  The topics challenge students to explore how computing and technology can impact the world, with a unique focus on creative problem solving and real-world applications.  A successful student will know more advanced data structures and object-oriented programming basics.  A successful student will be able to communicate with popular APIs including Twitter and Google in order to “grab” data and to organize the data and display it. 
+
+Conrad, in your class reflection, you recognized your developement, saying:
+"Maybe I can even code my way through this form. Maybe I DID code my way through this form. You'd never kno— print(f{})."
+
+	- Conrad, you are consistently able to reason abstractly.
+	- You have also shown your capacity to attend to precision.
+	- However, I find that you struggle to apply and adapt previous learning to tackle new problems at times.
+ A strategy to help develop your proficiency is working with Maego & myself (or future teachers) to define apporach strategies.
+
+You showed steady performance throughout the semester, scoring 91 on both key assessments.
+Keep up the good work Conrad! Your final grade for this class: A-. Conrad, it was wonderful to have you in class this semester. Your focus, energy, and collaborative spirit were on full display every day, and you were an excellent partner in the learning process for everyone in the room. I look forward to all of your future successes at OES and beyond, and thank you!
